@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there! 👋
 
-#### About me! 💁
+#### About me 💁
 
 Hi there! My name is Andreas and I'm currently a fullstack student. I have always been fascinated by technology and how it has the ability to change the world we live in. That's what led me to pursue a career in programming, and I'm really enjoying the journey so far.
 
